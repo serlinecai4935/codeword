@@ -7,7 +7,7 @@ public class CodeWordRunner {
         System.out.println(sc1.isValid(str:"happy"));
         System.out.println(sc1.isValid(str:"happy$"));
         System.out.println(sc1.isValid(str:"Code"));
-        System.out.println(sc1).isValid(str:"happyCode"));
+        System.out.println(sc1.isValid(str:"happyCode"));
 
         System.out.println(sc2.isValid(str:"MyPass"));
         System.out.println(sc2.isValid(str:"MypassPort"));
